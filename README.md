@@ -101,7 +101,7 @@ The viewer is intended for data checking, visual inspection and interpretation o
 
 ## Author
 
-Maria Solovieva
+Yana Solovieva
 
 ## License
 
