@@ -1,0 +1,21 @@
+{
+  "project_dir": "/content/drive/MyDrive/sentinel3/SLSTR/Solovieva_diploma_project",
+  "manual_crops_dir": "/content/drive/MyDrive/sentinel3/SLSTR/ml_manual_crops_010526",
+  "source_png_dir": "/content/drive/MyDrive/sentinel3/SLSTR/ml_manual_crops_010526/png",
+  "source_npy_dir": "/content/drive/MyDrive/sentinel3/SLSTR/ml_manual_crops_010526/npy",
+  "characteristics_path": "/content/drive/MyDrive/sentinel3/SLSTR/Solovieva_diploma_project/Solovieva_diploma_PL_characteristics.csv",
+  "output_table_path": "/content/drive/MyDrive/sentinel3/SLSTR/Solovieva_diploma_project/Solovieva_diploma_PL_training_dataset.csv",
+  "output_images_dir": "/content/drive/MyDrive/sentinel3/SLSTR/Solovieva_diploma_project/Solovieva_diploma_PL_training_images",
+  "output_png_dir": "/content/drive/MyDrive/sentinel3/SLSTR/Solovieva_diploma_project/Solovieva_diploma_PL_training_images/png",
+  "output_npy_dir": "/content/drive/MyDrive/sentinel3/SLSTR/Solovieva_diploma_project/Solovieva_diploma_PL_training_images/npy",
+  "n_source_png": 579,
+  "n_parsed_png": 578,
+  "n_not_parsed_png": 1,
+  "n_matched_rows": 578,
+  "n_unmatched_rows": 0,
+  "n_unique_cyclones": 209,
+  "slp_min": 957.07562,
+  "slp_max": 1021.23438,
+  "rel_vort_850_smth_min": 15.095999999999998,
+  "rel_vort_850_smth_max": 56.956
+}
