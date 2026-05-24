@@ -1,4 +1,4 @@
-# Polar low pressure regression and Sentinel-3 SLSTR scene viewer
+# Polar low characteristics regression and Sentinel-3 SLSTR scene viewer
 
 This repository contains notebooks and project files prepared for a diploma project on polar lows.
 
@@ -43,9 +43,10 @@ This notebook contains the model training pipeline:
 - calculating quality metrics;
 - saving model outputs and diagnostic plots.
 
-Main target variable:
+Main target variables:
 
 - slp: sea-level pressure in the polar low center, hPa.
+- rel_vort_850hpa: relative smoothed vorticity in the polar low center.
 
 ### 02_PL_scene_track_viewer.ipynb
 
