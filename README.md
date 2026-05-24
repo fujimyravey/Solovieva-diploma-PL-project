@@ -4,7 +4,7 @@ This repository contains notebooks and project files prepared for a diploma proj
 
 The project has two main parts:
 
-1. a regression model for estimating polar low central pressure from Sentinel-3 SLSTR crop images;
+1. a regression model for estimating polar low characteristics from Sentinel-3 SLSTR crop images;
 2. a scene-track viewer for checking the spatial and temporal matching between satellite scenes and polar low tracks.
 
 ## Repository structure
